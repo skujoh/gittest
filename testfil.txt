@@ -1,3 +1,4 @@
 Dette er en fil for å teste Git
 
+Dette er en endring på fila i repoet.
 
